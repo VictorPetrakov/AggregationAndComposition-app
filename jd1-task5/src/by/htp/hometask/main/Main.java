@@ -39,9 +39,6 @@ public class Main {
 		
 		logic.choiсeTypeOfVaucher(Excursion.values());
 		
-		System.out.println();
-		
-		logic.sortVoucher(Excursion.values());
 	
 
 	}
